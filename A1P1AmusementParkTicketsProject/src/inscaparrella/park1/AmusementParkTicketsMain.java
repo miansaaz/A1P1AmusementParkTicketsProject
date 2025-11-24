@@ -185,7 +185,7 @@ public class AmusementParkTicketsMain {
         } while (opcio != 0);
 
         if (opcio == 2) {
-          
+          jghj
            
         }
         
